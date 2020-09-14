@@ -25,5 +25,5 @@ I am a Software Engineer and I work as Full Stack Developer.
 
 <p align="center">
 <a href="https://www.linkedin.com/in/marwen-aouiti/">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-marwen%20aouiti-blue?style=flat-square&logo=linkedin"></a>
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Marwen%20Aouiti-blue?style=flat-square&logo=linkedin"></a>
 </p>
