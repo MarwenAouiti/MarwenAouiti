@@ -24,5 +24,6 @@ I am a Software Engineer and I work as Full Stack Developer.
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/marwen-aouiti/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/marwen-aouiti/">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-marwen%20aouiti-blue?style=flat-square&logo=linkedin"></a>
 </p>
