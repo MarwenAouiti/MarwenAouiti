@@ -12,7 +12,7 @@ I am a Software Engineer and I work as Full Stack Developer.
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | JavaScript | PHP
-- 🌐 &nbsp; HTML | CSS | Express.js | Bootstrap | Node.js | ReactJS |Socket.io
+- 🌐 &nbsp; HTML | CSS | Express.js | Bootstrap | Node.js | ReactJS | Socket.io
 - 🛢 &nbsp; MySQL | MongoDB
 - 🔧 &nbsp; Git
 - 📳 &nbsp; React Native
