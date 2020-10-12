@@ -6,7 +6,7 @@ I am a Software Engineer and I work as Full Stack Developer.
 - 🤔 &nbsp; I love Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studied Software Engineering at Ecole Polytechnique Privée de Sousse.
 - 💼 &nbsp; Working as a Full Stack Developer at LaTech.
-- 🌱 &nbsp; Learning more about Mobile Development, Systems Design and Artificial Intelligence.
+- 🌱 &nbsp; Learning more about Mobile Development, GraphQL, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Reading, Workout and Blog Writing as hobbies/side hustles.
 
 <h3>🛠 Tech Stack</h3>
