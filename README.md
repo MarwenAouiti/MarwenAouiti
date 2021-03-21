@@ -1,5 +1,5 @@
 <h2> Hey there! I'm Marwen Aouiti.</h2>
-I am a Software Engineer and I work as Full Stack Developer.
+I am a Software Engineer.
 
 <h3> 👨🏻‍💻 About Me </h3>
 
