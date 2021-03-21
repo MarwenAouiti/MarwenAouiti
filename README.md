@@ -13,7 +13,7 @@ I am a Software Engineer.
 
 - 💻 &nbsp; Python | JavaScript | TypeScript
 - 🌐 &nbsp; HTML | CSS | Express.js | Bootstrap | Node.js | ReactJS | Socket.io
-- 🛢 &nbsp; MySQL | MongoDB
+- 🛢 &nbsp; MySQL | MongoDB | Analytical databases
 - 🔧 &nbsp; Git
 - 📳 &nbsp; React Native
 
