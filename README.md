@@ -11,9 +11,9 @@ I am a Software Engineer.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | JavaScript | TypeScript
+- 💻 &nbsp; Python | JavaScript | TypeScript | Java
 - 🌐 &nbsp; HTML | CSS | Express.js | Bootstrap | Node.js | ReactJS | Socket.io
-- 🛢 &nbsp; MySQL | MongoDB | Analytical databases
+- 🛢 &nbsp; MySQL | MongoDB | Analytical databases | Postgresql
 - 🔧 &nbsp; Git
 - 📳 &nbsp; React Native
 
