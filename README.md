@@ -5,7 +5,7 @@ I am a Software Engineer.
 
 - 🤔 &nbsp; I love Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studied Software Engineering at Ecole Polytechnique Privée de Sousse.
-- 💼 &nbsp; Working as a Full Stack Engineer at Infor.
+- 💼 &nbsp; Working as a Software Engineer at Infor.
 - 🌱 &nbsp; Learning more about Mobile Development, GraphQL, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Reading, Workout and Blog Writing as hobbies/side hustles.
 
