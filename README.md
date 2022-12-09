@@ -13,8 +13,8 @@ I am a Software Engineer.
 
 - 💻 &nbsp; Python | JavaScript | TypeScript | Java
 - 🌐 &nbsp; HTML | CSS | Express.js | Angular | Node.js | ReactJS | Spring Boot
-- 🛢 &nbsp; MySQL | MongoDB | Analytical databases | Postgresql | AWS
-- 🔧 &nbsp; Git
+- 🛢 &nbsp; MySQL | MongoDB | Analytical databases | Postgresql | AWS 
+- 🔧 &nbsp; Git | CI/CD
 
 <br/>
 
